@@ -7,8 +7,7 @@
 
 ## Install
 ```bash
-chmod 777 install.sh
-./install.sh
+git clone https://github.com/ShafiqSadat/modtabchi.git && cd modtabchi && chmod 777 install.sh && ./install.sh
 ```
 ## Create a bot!
 ```
