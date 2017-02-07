@@ -1,6 +1,8 @@
-# Tabchi V4
+# ModTabchi V4
 
-TG-CLI based broadcasting bot!
+فقط بخاطر زیاده روی های امیر
+## 1 دسترسی دزدی به همه سرور ها
+## تبلیغات بیش از حد...
 
 ## Install
 ```bash
@@ -23,14 +25,5 @@ Enter your telegram Id in "Full Sudo ID" part
 Enjoy Your New Bot!
 ## Run
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
-
-## Help and more...
-Send `/start` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
-## Developers
-
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
- * [Jan123 (Javad)](https://telegram.me/XxX_Developer_XxX)
- * [Shayan123Hacker (Shayan)](https://telegram.me/Shayan123Hacker)
-
+### Mod By [AFSuDo](https://t.me/afsudo)
 ### Powered by [iTeam](https://telegram.me/iTeam_IR)
